@@ -1,7 +1,4 @@
 # 📚 REQUISITOS - Grupo 6
-
----
-
 Bem-vindo(a) ao repositório do Grupo 6 do 2ºB EM!
 
 ---
@@ -12,10 +9,10 @@ Aprender na prática, colaborar e reunir pequenos projetos, exercícios e anota�
 ---
 
 ## 🤝 Participantes do grupo:
-04. Enzo Antônio
-09. Heloísa 
-24. Pedro Jimenez
-30. Siméia
+01. Enzo Antônio - Nº04
+02. Heloísa - Nº09
+03. Pedro Jimenez - Nº24
+04. Siméia - Nº30
 
 ---
 
